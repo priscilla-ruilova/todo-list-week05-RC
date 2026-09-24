@@ -1,22 +1,19 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# ✅ Project Name: Todo List
 
-### Goal: Build a Simple Todo List
+## Project Goal: Build a Simple Todo List with the ability to add items, delete individual items, and delete all
+ 
+### Languages Used: HTML, CSS, JavaScript
 
-### How to submit your code for review:
+![Screenshot of to-do list with two items checked off](assets/ScreenshotToDoList.png)
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+### What I learned:
+- the font "Honk" is delightful
+- how to use .apendChild() method
+- how to use .prepend() method 
+- how to add text-decoration in JavaScript
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+### Try it yourself! Check the repo I forked this project from and make the project your own! 
+
+
+
+
